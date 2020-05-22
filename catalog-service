@@ -1,0 +1,5 @@
+server.port=8003
+spring.application.name = catalog-service
+eureka.client.register-with-eureka=false
+organization.name=raupp
+service.welcome.message=Hello CatalogCourseApp
